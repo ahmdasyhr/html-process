@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: url(Image.jpg) no-repeat;
+    background-size: cover;
+}
+.search-box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #22E2E8;
+    height: 40px;
+    border-radius: 40px;
+    padding: 10px;
+
+}
